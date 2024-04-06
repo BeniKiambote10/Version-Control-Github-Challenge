@@ -1,0 +1,10 @@
+1. the terminal is a hardware service where we enter commands to the computer so that we can communicate with it 
+
+2. The main difference between Git and Github is that Git is a service we use to enter commands in the computer while Github is a platform to collaborate with code work. Trouble shooting at coding problems and sharing your code.
+
+3 The steps to fork a GitHub Repository 
+- go to the Repository you want to fork 
+- there is a fork button on the upper right corner
+- click on the profile or organization where you want to fork the Repository
+- once its complete you will have a copy of the repository.
+
